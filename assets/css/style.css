@@ -1,0 +1,23 @@
+h1{ 
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #20315A;
+    color: white;
+}
+
+#panel-heading1{
+    background-color: #20315A;
+    color:white;
+}
+
+#submit{
+    background-color: #20315A;
+    color: white;
+}
+
+#append{
+    background-color: #20315A;
+    color:white;
+}
